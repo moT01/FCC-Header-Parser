@@ -1,0 +1,21 @@
+{
+  "name": "headerparser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moT01/FCC-Header-Parser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "ip": "^1.1.5",
+    "useragent": "^2.1.13"
+  }
+}
