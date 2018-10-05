@@ -1,5 +1,5 @@
-## FCC-Request Header Parser Microservice
-##### Request Header Parser Microservice project for [freecodecamp.com](https://www.freecodecamp.com/challenges/request-header-parser-microservice)
+## FCC-Header Parser Microservice
+##### Header Parser Microservice project for [freeCodeCamp](https://www.freecodecamp.org/)
 ##### Check it out [here](https://phase-continent.glitch.me/)
 
 <br/>
@@ -14,5 +14,6 @@
 
 ##### Technologies used to complete this project
 - HTML
-- Node.js
 - JavaScript
+- Node
+- Express
