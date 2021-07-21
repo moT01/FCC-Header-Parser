@@ -4,7 +4,8 @@ var useragent = require('useragent');
 
 var app = express();
 
-app.get('/', function(req, res) {
+
+app.get('*', function(req, res) {
     var ip = (req.headers['x-forwarded-for'] ||
         req.connection.remoteAddress ||
         req.socket.remoteAddress ||
